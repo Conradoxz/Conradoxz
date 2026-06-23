@@ -6,6 +6,29 @@
 
 ---
 
+<h1 align="center"> 💳 Certificados</h1>
+
+<div align="center">
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/eb094f8a88ewogICJvYmplY3RJZCIgOiAiUExBTi0zNzQ5QzcyMTE3RTIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9d33b6c4907-10">
+    <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="200">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/a4a62e0b26ewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9ccb6d2e563-10">
+    <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="200">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/9b9ddb0b0fewogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdElkIiA6ICJQTEFOLTg3NDlDMDJBNzhFQyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9f5ae346ed9-10">
+    <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="200">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/6594801830ewogICJsZWFybmVyQ05VTSIgOiAiODA4MzM5NlJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp998d7ddc65f-10">
+    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="200">
+</a>
+</div>
+
+---
+
 ### 🚀 About me
 Here you can write a brief introduction about who you are, your current goals, and what excites you the most in the tech world.
 
