@@ -14,7 +14,7 @@
     <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="200">
 </a>
 
-<a href="https://skills.yourlearning.ibm.com/certificate/share/a4a62e0b26ewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9ccb6d2e563-10">
+<a href="https://skills.yourlearning.ibm.com/certificate/share/1dfce0eb23ewogICJsZWFybmVyQ05VTSIgOiAiODA4MzM5NlJFRyIsCiAgIm9iamVjdElkIiA6ICJQTEFOLTE0RjI2OTFFM0EzMiIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9b370cce27e-10">
     <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="200">
 </a>
 
